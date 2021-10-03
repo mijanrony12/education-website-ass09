@@ -1,0 +1,17 @@
+.navbar {
+  background: #000;
+  padding: 20px 0px;
+  color: #fff;
+}
+.navbar span {
+  color: #e67e22;
+  font-style: italic;
+}
+.navbar nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.5rem;
+  padding: 8px 20px;
+  margin: 0px 5px;
+}
