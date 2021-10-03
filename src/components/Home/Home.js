@@ -1,17 +1,10 @@
 import React from 'react';
-import { useEffect } from 'react';
-import { useState } from 'react';
 import { Link } from 'react-router-dom';
+import useServices from '../../Hooks/useServices';
 import Service from '../Service/Service';
 import './Home.css'
 const Home = () => {
-       const [ services, setServices ] = useState([])
-    
-    useEffect(() => {
-        fetch('./FakeData.json')
-            .then(res => res.json())
-        .then(data => setServices(data))
-   },[])
+       const [services, setServices]=useServices()
     return (
         <div>
              <div className="banner">

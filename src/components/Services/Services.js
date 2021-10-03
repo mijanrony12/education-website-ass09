@@ -4,15 +4,10 @@ import { useEffect } from 'react';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import Service from '../Service/Service';
+import useServices from '../../Hooks/useServices';
 
 const Services = () => {
-    const [ services, setServices ] = useState([])
-    
-    useEffect(() => {
-        fetch('./FakeData.json')
-            .then(res => res.json())
-        .then(data => setServices(data))
-   },[])
+   const [services, setServices]=useServices()
 
     return (
         <div>
