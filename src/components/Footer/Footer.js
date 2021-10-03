@@ -2,8 +2,9 @@ import React from 'react';
 import './Footer.css'
 const Footer = () => {
     return (
+        // data create for footer
         <div className="footer-section">
-            <div className="container d-flex justify-content-between">
+            <div className="container footer">
                         <div>
                                <h2>Categories</h2>
                                 <p>- All Courses</p>

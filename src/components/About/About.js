@@ -3,6 +3,8 @@ import './About.css'
 const About = () => {
     return (
         <div className="d-flex justify-content-center text-center my-5">
+            
+              {/* {hard coded data create} */}
               <div className="about-section">
                       <h1>do you know <span>About Us</span></h1>
                      <h4>please read this content</h4>

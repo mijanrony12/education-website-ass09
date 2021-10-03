@@ -4,6 +4,8 @@ import './NotFound.css'
 const NotFound = () => {
     return (
         <div className="notFound-section text-center">
+
+            {/* data create */}
              <div className="content">
                     <h1>Your page not found-----'404'</h1>
                    <p> please check your url</p>

@@ -12,6 +12,7 @@ import Services from './components/Services/Services';
 function App() {
   return (
     <div >
+      {/* {declare router} */}
       <Router>
                   <Header/>
                     <Switch>

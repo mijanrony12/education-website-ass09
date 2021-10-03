@@ -9,7 +9,7 @@ const Header = () => {
 }
     return (
         <div className="navbar">
-            <div className="container d-flex justify-content-between">
+            <div className="container menu">
                     <div>
                         <h2>Nirjhar <span>Education</span></h2>
                 </div>

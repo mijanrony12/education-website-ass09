@@ -7,6 +7,8 @@ import Service from '../Service/Service';
 import useServices from '../../Hooks/useServices';
 
 const Services = () => {
+    
+    // get data
    const [services, setServices]=useServices()
 
     return (

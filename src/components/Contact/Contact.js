@@ -3,6 +3,8 @@ import './Contact.css'
 const Contact = () => {
     return (
         <div className="d-flex justify-content-center text-center my-5">
+
+            {/* {data create} */}
                <div className="contact-section">
                             <h1>institute Name: Nirjhar Education</h1>
                             <p>we are try our best services.. we are very friendly.our sucess rate 80%</p>

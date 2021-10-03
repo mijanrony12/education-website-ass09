@@ -2,9 +2,10 @@ import { useEffect } from "react"
 import { useState } from "react"
 
 const useServices = () => {
-    const [ services, setServices ] = useState([])
+    const [ services, setServices ] = useState([]);
     
-    useEffect(() => {
+    // get data
+    useEffect((id) => {
         fetch('./FakeData.json')
             .then(res => res.json())
         .then(data => setServices(data))
