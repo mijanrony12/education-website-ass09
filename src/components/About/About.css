@@ -1,0 +1,12 @@
+.about-section {
+  width: 60%;
+}
+.about-section h1 {
+  font-style: italic;
+}
+.about-section h1 span {
+  color: #e67e22;
+}
+.about-section p {
+  text-align: justify;
+}
