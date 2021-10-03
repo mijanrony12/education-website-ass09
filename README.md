@@ -1,6 +1,6 @@
 # Getting Started with Nirjhar Education
 
-This project was bootstrapped with [Nirjhar Education](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Nirjhar Education](https://nirjhar-education-2021.netlify.app/).
 
 ## About Nirjhar Education
 
