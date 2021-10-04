@@ -19,7 +19,7 @@ const Header = () => {
                             <NavLink activeStyle={hoverStyle} to="/about">About</NavLink>
                             <NavLink activeStyle={hoverStyle} to="/services">Services</NavLink>
                             <NavLink activeStyle={hoverStyle} to="/contact">Contact</NavLink>
-                    </nav>
+                     </nav>
                    
                </div>
         </div>

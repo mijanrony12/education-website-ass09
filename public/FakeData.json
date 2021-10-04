@@ -4,62 +4,71 @@
     "name": "Basic English",
     "price": 4500,
     "detials": "Your students will get plenty of inferencing practice with these 24 Inference Task Cards and Google Slides plus an optional self-checking version is included. Each card/slide features a short",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPpgoGSnByKatONnzGPxx02qK9Mtoffz4tw&usqp=CAU"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPpgoGSnByKatONnzGPxx02qK9Mtoffz4tw&usqp=CAU",
+  "rating": 4.5
   },
   {
     "id": 152,
     "name": "Spoken English",
     "price": 6500,
     "detials": "SC National Guard provides health care education in South America. Doctors and med techs from the South Carolina Air National Guard’s 169th Medical Group teamed up with medics from the",
-    "image": "https://image.freepik.com/free-vector/online-courses-concept_23-2148533386.jpg"
+    "image": "https://image.freepik.com/free-vector/online-courses-concept_23-2148533386.jpg",
+    "rating": 4
   },
   {
     "id": 153,
     "name": "IELTS Live",
     "price": 10500,
     "detials": " Heidi Meyer. Oldest Age While Attending School: 37 years old in 2008. Country of Origin: San Diego, California, USA. School: University Of California, San Diego School Of Medicineear Graduate.",
-    "image": "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-07-24/30c65f19-8e87-457c-b22a-cb32f44f4dd0.jpeg"
+    "image": "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-07-24/30c65f19-8e87-457c-b22a-cb32f44f4dd0.jpeg",
+  "rating": 3.5
   },
   {
     "id": 154,
     "name": "Free Hand Writing",
     "price": 3500,
     "detials": "Your students will get plenty of inferencing practice with these 24 Inference Task Cards and Google Slides plus an optional self-checking version is included. Each card/slide features a short",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspylLvnWN7g27AF5W03Gj_09tkkWmqMRhIg&usqp=CAU"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspylLvnWN7g27AF5W03Gj_09tkkWmqMRhIg&usqp=CAU",
+    "rating": 3
   },
     {
     "id": 155,
     "name": "Corporate English",
     "price": 8500,
     "detials": "SC National Guard provides health care education in South America. Doctors and med techs from the South Carolina Air National Guard’s 169th Medical Group teamed up with medics from the",
-    "image": "https://image.freepik.com/free-vector/online-tutorials-concept_52683-37480.jpg"
+    "image": "https://image.freepik.com/free-vector/online-tutorials-concept_52683-37480.jpg",
+    "rating": 4
   },
     {
     "id": 156,
     "name": "Ponetics Course",
     "price": 5500,
     "detials": "Heidi Meyer. Oldest Age While Attending School: 37 years old in 2008. Country of Origin: San Diego, California, USA. School: University Of California, San Diego School Of Medicineear Graduate",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwb6UXztKC3ccrkQEQ3VqDHECKgD9h-lxpWQ&usqp=CAU"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwb6UXztKC3ccrkQEQ3VqDHECKgD9h-lxpWQ&usqp=CAU",
+     "rating": 3.5
   },
     {
     "id": 157,
     "name": "Fluently English Course",
     "price": 9800,
     "detials": "SC National Guard provides health care education in South America. Doctors and med techs from the South Carolina Air National Guard’s 169th Medical Group teamed up with medics from the",
-    "image": "https://www.darnells.co.uk/wp-content/uploads/2016/07/schools-and-academies.jpeg"
+    "image": "https://www.darnells.co.uk/wp-content/uploads/2016/07/schools-and-academies.jpeg",
+     "rating": 4
   },
     {
     "id": 158,
     "name": "Vocabulary Course",
     "price": 3800,
     "detials": "Heidi Meyer. Oldest Age While Attending School: 37 years old in 2008. Country of Origin: San Diego, California, USA. School: University Of California, San Diego School Of Medicineear Graduate",
-    "image": "https://www.ei-ie.org/img/Future-of-work-in-education.jpg?p=card"
+    "image": "https://www.ei-ie.org/img/Future-of-work-in-education.jpg?p=card",
+    "rating": 4.5
   },
     {
     "id": 159,
     "name": "Grammmer Course",
     "price": 4800,
     "detials": "Your students will get plenty of inferencing practice with these 24 Inference Task Cards and Google Slides plus an optional self-checking version is included. Each card/slide features a short",
-    "image": "https://www.theasianschool.net/blog/wp-content/uploads/2018/11/importance-of-education-1200x900.jpg"
+    "image": "https://www.theasianschool.net/blog/wp-content/uploads/2018/11/importance-of-education-1200x900.jpg",
+    "rating": 3
   }
 ]
