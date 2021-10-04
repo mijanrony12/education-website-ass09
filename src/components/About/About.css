@@ -10,3 +10,10 @@
 .about-section p {
   text-align: justify;
 }
+
+@media (max-width: 576px) {
+  .about-section {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
