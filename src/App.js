@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { createContext } from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 import About from './components/About/About';
@@ -10,10 +11,12 @@ import MoreDetails from './components/MoreDetails/MoreDetails';
 import NotFound from './components/NotFound/NotFound';
 import Services from './components/Services/Services';
 
+export const RingContext=createContext('ring')
+const discount="do you use coupon code(MR2021) you got 20% discount"
 function App() {
   return (
-    <div >
-      {/* {declare router} */}
+    <RingContext.Provider value={discount}>
+               {/* {declare router} */}
       <Router>
                   <Header/>
                     <Switch>
@@ -41,7 +44,7 @@ function App() {
                  </Switch>
                     <Footer></Footer>
           </Router>
-    </div>
+    </RingContext.Provider>
   );
 }
 

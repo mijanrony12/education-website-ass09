@@ -23,7 +23,7 @@ const Home = () => {
                     
                     {/* {data pase new component} */}
                   {
-                    services.slice(0,3).map(service => <Service
+                    services.slice(0,4).map(service => <Service
                         key={ service.id }
                         service={service}
                     ></Service>)

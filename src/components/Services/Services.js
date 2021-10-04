@@ -10,7 +10,7 @@ const Services = () => {
     
     // get data
    const [services, setServices]=useServices()
-
+console.log(services)
     return (
         <div>
             <h1 className="text-center mt-4  service"> Our Service</h1>

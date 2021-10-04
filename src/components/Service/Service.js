@@ -24,7 +24,7 @@ const Service = ({service}) => {
                             </Rating></p>
                       <div className="btn">
                          <Link to={`/services/${id}`}>
-                               <button>More Details</button>
+                               <button service={service}>More Details</button>
                          </Link>
                      </div>
                           
